@@ -1,0 +1,80 @@
+Uri: https://daosci.io/
+File Name: C:\Downloaded Web Sites\daosci.io\index.htm
+Content Type: text/html
+
+Uri: https://daosci.io/assets/index-CgBgs7Kv.css
+File Name: C:\Downloaded Web Sites\daosci.io\assets\index-CgBgs7Kv.css
+Content Type: text/css
+
+Uri: https://daosci.io/assets/index-dB_gwUvf.js
+File Name: C:\Downloaded Web Sites\daosci.io\assets\index-dB_gwUvf.js
+Content Type: application/javascript
+
+Uri: https://daosci.io/assets/Satoshi-Regular-DToFXog2.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\assets\Satoshi-Regular-DToFXog2.ttf
+Content Type: font/ttf
+
+Uri: https://daosci.io/favicon.png
+File Name: C:\Downloaded Web Sites\daosci.io\favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap
+File Name: C:\Downloaded Web Sites\daosci.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+File Name: C:\Downloaded Web Sites\daosci.io\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+Content Type: font/ttf
+
